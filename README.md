@@ -1,1 +1,1 @@
-# finger_counter
+# Finger Counter using OpenCV and MediaPipe
