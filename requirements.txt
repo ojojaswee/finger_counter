@@ -1,0 +1,2 @@
+mediapipe==0.10.7
+opencv_python_headless==4.8.1.78
